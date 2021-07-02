@@ -1,0 +1,149 @@
+.footer{
+    background-color: #3150a2;
+    color: #fff;
+    padding: 45px 0;
+    width: 100%;
+}
+.customer-care p, {
+    color: white;
+    letter-spacing:3px;
+    font-size: 12px;
+    padding-top: 0px;
+    padding-bottom: 5%;
+    text-align: left;
+    
+
+}
+li a{
+    text-align: left;
+}
+
+.container{
+    
+}
+ul{
+    color: white;
+    
+    padding-left: 0px;
+}
+.ul{
+    margin-bottom: 50px;
+}
+li{
+    list-style-type: none;
+    margin-bottom: 10px;
+    
+    
+}
+.footer1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-left: auto;
+    justify-content: center;
+    text-align: center;
+}
+.customer-care{
+    width: 10%;
+    text-align: center;
+    
+
+}
+.contact{
+    width:30%;
+}
+.quality{
+    width:auto;
+}
+.footer-social{
+    display: flex;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    justify-content: center;
+    margin-top: 50px;
+}
+.footer-social li{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+*a{
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    text-align: left;
+}
+.contact{
+    padding-top: 0px;
+    color: white;
+    
+}
+.quality{
+    
+    color: white;
+    
+}
+.col{
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+    width: 90%;
+}
+.highlight{
+    font-family: GT Walsheim Pro Regular,Helvetica,Arial,"sans-serif";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    width:100%;
+    margin-bottom: 30px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.premium{
+    width:auto;
+    max-width: 100%;
+}
+.col{
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+   
+
+}
+.vl{
+    border-left: 1px solid #faefd9;
+    border-right: 1px solid #faefd9;
+    margin-left: 30px;
+   margin-right: 30px;
+}
+.customer-care p{
+    letter-spacing: 3px;
+}
+.contact p{
+    letter-spacing: 3px;
+}
+.copyrights-section{
+    display: flex;
+    justify-content: center;
+}
+.spacer{
+    width: 34%;
+}
+.fa{
+    color: #e90606;
+    animation: pound .35s infinite alternate;
+    -webkit-animation: pound .35s infinite alternate;
+}
+.row{
+    bs-gutter-x: 0; 
+    bs-gutter-y: 0; 
+    flex-wrap: wrap;
+     margin-top: auto; 
+     margin-right: auto; 
+     margin-left: auto; 
+}

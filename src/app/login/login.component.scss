@@ -1,0 +1,56 @@
+.sign-in{
+    width:100%
+}
+.login-section{
+    padding: 14px 21px 84px  21px;
+}
+.login-country-code{
+    position: absolute;
+    top: 7px;
+    left: 10px;
+    font-family: GT Walsheim Pro Regular,Helvetica,Arial,"sans-serif";
+    font-size: 13px;
+    color: #3150a2;
+}
+.container{
+    text-align: center;
+    width: 41%;
+}
+.login{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.or{
+    margin-bottom: 14px;
+}
+.vs{
+    text-align: center;
+    margin-bottom: 1em;
+}
+.login-input{
+    color: #3150a2;
+    background: transparent;
+    letter-spacing: .04em;
+    width: 100%;
+    padding: .5em 0;
+    margin-bottom: 15px;
+    border: none;
+    border-bottom: 2px solid #3150a2;
+    outline: none;
+}
+.btn-checkout{
+    border: 2px solid #3150a2;
+    background-color: #3150a2;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 1em 0;
+    font-family: GT Pressura,Helvetica,Arial,"sans-serif";
+    font-size: 12px;
+    letter-spacing: .24em;
+    outline: none;
+    width: 100%;
+}
+.btn-signup{
+    background-color: transparent;
+    color: #3150a2;
+}

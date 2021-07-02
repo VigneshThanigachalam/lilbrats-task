@@ -1,0 +1,51 @@
+.outer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.product{
+  display: inline-flex;
+  flex-direction: column;
+  padding: 50px;
+  justify-content: center;
+  align-items: center;
+}
+.img1{
+ height: 185px;
+}
+
+.name{
+  font-size: 17px;
+    line-height: 22px;
+    cursor: pointer;
+    text-align: center;
+    color: #3150a2;
+}
+
+.price{
+  font-family: GT Pressura,Helvetica,Arial,"sans-serif";
+  font-size: 15px;
+  letter-spacing: .24em;
+  cursor: pointer;
+  text-align: center;
+  color: #3150a2;
+}
+
+.heading{
+  font-family: Canela,Times New Roman,Times,"serif";
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: center;
+    margin-top: 16px;
+    color: #3150a2;
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 25px;
+}
+hr{
+  margin-left: auto;
+  margin-right: auto;
+}

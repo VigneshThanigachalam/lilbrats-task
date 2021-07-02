@@ -1,0 +1,106 @@
+.outer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+}
+
+.product{
+  display: inline-flex;
+  flex-direction: column;
+  padding: 50px;
+}
+
+.img-con{
+  border-radius: 50%;
+}
+
+.heading{
+  color: #3150a2;
+    font-family: GT Walsheim Pro Regular,Helvetica,Arial,"sans-serif";
+    font-size: 18px;
+    line-height: 1em;
+    margin: 40px 0 20px;
+    text-align: center;
+}
+
+
+.heading2{
+  font-weight: 600;
+    color: #3150a2;
+    line-height: 1em;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.shopnow{
+  text-decoration: none;
+  text-align: center;
+
+  padding-top: 25px;
+}
+
+.shopnow2{
+  text-decoration: none;
+  letter-spacing: 2px;
+  color: #3150a2;
+}
+
+.img1{
+  border-radius: 50%;height: 450px;
+}
+
+.space{
+  padding: 25px;
+}
+
+.img2{
+  height: 450px;
+}
+
+
+.blue-line{
+  margin-left: 10%;
+    margin-right: 10%;
+    color: blue;
+    /* border: blue; */
+    /* border: 0.5px solid blue; */
+    border-bottom: 1px solid #3150a2;
+}
+
+
+.title{
+  font-family: Canela,Times New Roman,Times,"serif";
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: center;
+    margin-top: 16px;
+    color: #3150a2;
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 25px;
+}
+@media only screen  and(max-width:600px) {
+  .img1{
+    border-radius: 50%;
+    height: 320px;
+
+  }
+  .product{
+    padding: 0px;
+  }
+
+  .img2{
+    padding-top: 50px;
+    height: 320px;
+  }
+
+}
+
+hr{
+  margin-left: auto;
+  margin-right: auto;
+}
